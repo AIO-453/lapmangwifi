@@ -1,0 +1,260 @@
+﻿@inject Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - lapmangfptBinhThuan</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lapmangfptBinhThuan.styles.css" asp-append-version="true" />
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="~/css/fonts.css">
+    <link rel="stylesheet" href="~/css/bootstrap.css">
+    <link rel="stylesheet" href="~/css/font_awesome.css">
+    <link rel="stylesheet" href="~/css/swiper.css">
+    <link rel="stylesheet" href="~/css/magnific_popup.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/responsive.css">
+    <link rel="stylesheet" href="~/css/theme_color_1.css">
+    <link rel="stylesheet" href="~/css/custom.css">
+    <link rel="stylesheet" href="~/css/font_awesome1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/support_onl_left.css">
+
+    <!-- JS Files -->
+    <script src="~/js/jquery-3.3.1.js"></script>
+    <script src="~/js/bootstrap_bundle.js"></script>
+    <script src="~/js/validate.js"></script>
+    <script src="~/js/jquery_waypoints.js"></script>
+    <script src="~/js/sticky.js"></script>
+    <script src="~/js/swiper.js"></script>
+    <script src="~/js/magnific_popup.js"></script>
+    <script src="~/js/parsley.js"></script>
+    <script src="~/js/retina.js"></script>
+    <script src="~/js/isotope_pkgd.js"></script>
+    <script src="~/js/menu.js"></script>
+    <script src="~/js/scripts.js"></script>
+    <script src="~/js/custom.js"></script>
+    <script type="text/javascript" src="~/js/functions_min.js"></script>
+</head>
+<body>
+     <header class="header">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-md-7">
+                            <div class="header-info text-center text-md-left">
+                                <span>HOTLINE: <a href="#">0944463433</a></span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-5">
+                            <div class="header-top-right d-flex align-items-center justify-content-center justify-content-md-end">
+                                <form class="parsley-validate d-flex position-relative" action="/tim-kiem">
+                                    <input type="text" name="search[q]" value="" placeholder="Tìm kiếm sản phẩm dịch vụ tin tức tại đây" required style="font-size: 14px;">
+                                    <button type="submit"><i class="fa fa-search"></i></button>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-header">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-9">
+                            <!-- Logo -->
+                            <div class="logo">
+                                <a href="/">
+                                    <img src="~/img/logo-fpt.png" data-rjs="2" alt="FPT Telecom">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-xl-10 col-lg-10 col-md-9 col-sm-8 col-3">
+                            <nav>
+                                <!-- Header-menu -->
+                                <div class="header-menu text-right">
+                                @functions {
+                                    public string IsActive(string controller, string action)
+                                    {
+                                        var routeData = ViewContext.RouteData.Values;
+                                        var currentController = routeData["controller"].ToString();
+                                        var currentAction = routeData["action"].ToString();
+                                        return controller == currentController && action == currentAction ? "active" : "";
+                                    }
+                                }
+                                    <ul>
+                                    <li class="@IsActive("Home", "Index")"><a asp-area="" asp-controller="Home" asp-action="Index">TRANG CHỦ</a></li>
+                                    <li class="@IsActive("Home", "khuyenmaihot")"><a asp-area="" asp-controller="Home" asp-action="khuyenmaihot">Khuyến mãi hot</a></li>
+                                    <li class="@IsActive("Home", "internet_fpt")"><a asp-area="" asp-controller="Home" asp-action="internet_fpt">Internet FPT</a></li>
+                                    <li class="@IsActive("Home", "truyen_hinh_fpt")"><a asp-area="" asp-controller="Home" asp-action="truyen_hinh_fpt">FPT PLAY</a></li>
+                                    <li class="@IsActive("Home", "fpt_camera")"><a asp-area="" asp-controller="Home" asp-action="fpt_camera">FPT Camera</a></li>
+                                    <li cclass="@IsActive("Home", "fpt_playbox")"><a asp-area="" asp-controller="Home" asp-action="fpt_playbox">FPT Playbox</a></li>
+                                    <li cclass="@IsActive("Home", "tin_tuc")"><a asp-area="" asp-controller="Home" asp-action="tin_tuc">TIN TỨC</a></li>
+                                    <li class="@IsActive("Home", "lien_he")"><a asp-area="" asp-controller="Home" asp-action="lien_he">LIÊN HỆ</a></li>
+                                    </ul>
+                                </div>
+                                <!-- End of Header-menu -->
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="main-footer">
+        <div class="footer-widgets light-bg border-top pt-30 pb-20">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Widget -->
+                    <div class="col-lg-4 col-sm-12">
+                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
+                            <h3 class="h4"><img src="~/img/logo-fpt.png" alt="FPT Telecom"></h3>
+                            <div class="">
+                                <p>LẮP ĐẶT MẠNG FPT BÌNH THUẬN, Lắp đặt wifi fpt bình thuận, bắt wifi fpt, Lắp đặt wifi phan thiết, lắp camera fpt bình thuận, chuyên khảo sát lắp đặt wifi tại nhà ,</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of Footer Widget -->
+                    <div class="col-lg-8 col-sm-12">
+                        <div class="row">
+                            <!-- Footer Widget -->
+                            <div class="col-lg-6 col-sm-12">
+                                <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".3">
+                                    <h3 class="h4">THÔNG TIN LIÊN HỆ</h3>
+                                    <div class="contact-widget-content">
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <i class="fa fa-map-marker"></i>
+                                                <span>59 Thủ Khoa Huân, Tp. Phan Thiết, Bình Thuận</span>
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-phone"></i>
+                                                <a href="tel:+0944463433">Tổng đài hỗ trợ kỹ thuật : 0944463433</a>
+                                            </li>
+                                            <li>
+                                                <i class="fa fa-envelope-o"></i>
+                                                <a href="mailto:Thinhnq15@fpt.com">Thinhnq15@fpt.com</a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Footer Widget -->
+                            <!-- Footer Widget -->
+                            <div class="col-lg-6 col-sm-12">
+                                <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".5">
+                                    <h3 class="h4">SITE MAP</h3>
+                                    <div class="menu-wrap">
+                                        <div class="row">
+                                            <div class="col-lg-6 col-sm-12" style="margin-bottom: 7px;">
+                                                <ul class="menu">
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="khuyenmaihot">Khuyến mãi hot</a></li>
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="internet_fpt">Internet FPT</a></li>
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="truyen_hinh_fpt">FPT PLAY</a></li>
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="tin_tuc">TIN TỨC</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-lg-6 col-sm-12">
+                                                <ul class="menu">
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="fpt_camera">FPT Camera</a></li>
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="fpt_playbox">FPT Playbox</a></li>
+                                                    <li><a asp-area="" asp-controller="Home" asp-action="lien_he">LIÊN HỆ</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Footer Widget -->
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-9 col-sm-12">
+                                <ul class="list-inline">
+                                    <!-- <li><a href="#">Chính sách thanh toán</a></li>
+                                    <li><a href="#">Chính sách sử dụng</a></li>
+                                    <li><a href="#">Chính sách bảo mật</a></li> -->
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <a href="http://online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=35569" target="_blank"><img alt="FPT Telecom" src="https://fpt.vn/storage/upload/images/blocks/20150827110756-dathongbao.png" style="height:50px;"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End of Footer Widget -->
+                </div>
+            </div>
+        </div>
+
+        <div style="background: #2B2B2B; width: 100%;height: auto; padding: 10px 0;">
+            <div class="row">
+                <div class="col-md-12" style="text-align: center;">
+                    <a href="https://fptbinhthuan.com.vn/dieu-khoan/chinh-sach-bao-mat" style="color: white; margin: 0 20px;">
+                        Chính sách Bảo mật
+                    </a>                                            <a href="https://fptbinhthuan.com.vn/dieu-khoan/dieu-khoan-su-dung-website" style="color: white; margin: 0 20px;">
+                        Điều khoản Sử dụng Website
+                    </a>                                    <a href="https://fptbinhthuan.com.vn/dieu-khoan/chinh-sach-thanh-toan" style="color: white; margin: 0 20px;">
+                        Chính sách Thanh toán
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="bottom-footer dark-bg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Copyright -->
+                    <div class="col-md-12">
+                        <div class="copyright-text text-center">
+                            <p class="mb-md-0"><img src="~/img/logo-fpt.png" alt=""> &nbsp;&nbsp; &copy; 2024 FPT Telecom</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End of Footer -->
+    <!-- Back to top -->
+    <div class="back-to-top">
+        <a href="#"> <i class="fa fa-chevron-up"></i></a>
+    </div>
+    <script type="text/javascript">
+        /**Access logs*/
+        var ids = {};
+        // $(function() {
+        //   $.ajax({url: BASE_URL + 'api/access_log',method: "POST",data: { action : 'write', params : { url: window.location.href, ids: ids } },beforeSend: function () {},success: function () {}});
+        // });
+    </script>
+    <div class="support-online-left">
+        <a href="tel:0944463433" class="call-now" rel="nofollow" data-original-title="" title="">
+            <img src="~/img/phone-call-icon.png" width="50" height="50">
+            <div class="animated infinite zoomIn alo-circle"></div>
+            <div class="animated infinite pulse alo-circle-fill"></div>
+            <span>Hotline: 0944463433</span>
+        </a>
+        <a class="middle"></a>
+        <a class="btn-support" href="http://zalo.me/0944463433">
+            <div class="animated infinite zoomIn alo-circle"></div>
+            <div class="animated infinite pulse alo-circle-fill"></div>
+            <img src="~/img/zalo-sharelogo.png" width="50" height="50">
+        </a>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+

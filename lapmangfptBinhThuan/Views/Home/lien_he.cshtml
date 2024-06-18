@@ -1,0 +1,55 @@
+﻿@model lienhe
+
+@{
+    ViewData["Title"] = "Liên hệ";
+}
+<!-- Contacts -->
+<section class="pt-60 pb-60" style="background-color: white;" id="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <!-- Map -->
+                <div class="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d125357.31816835543!2d108.0519308!3d10.9319008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317683fae4923af7%3A0x85e9271f036dfcf9!2zRlBUIFRlbGVjb20gQsOsbmggVGh1w6LMo24!5e0!3m2!1svi!2s!4v1686279569120!5m2!1svi!2s" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <!-- Contact Form -->
+                <div class="contact-form parsley-validate-wrap" data-animate="fadeInUp" data-delay=".4">
+                    <h3 class="bordered-title">Để lại thông tin chúng tôi sẽ gọi lại ngay cho bạn</h3>
+                    <div class="form-response"></div>
+                    <form asp-action="lien_he" enctype="multipart/form-data">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-field">
+                                    <input asp-for="@Model.HoTen" class="theme-input-style" placeholder="Họ tên (*)">
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-field">
+                                    <input asp-for="@Model.DienThoai" class="theme-input-style" placeholder="Số điện thoại">
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-field">
+                                    <input asp-for="@Model.DiaChi" class="theme-input-style" placeholder="Địa chỉ">
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="form-field">
+                            <textarea asp-for="@Model.NoiDung" class="theme-input-style" placeholder="Nội dung tin nhắn"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-orange btn-submit">Gửi</button>
+                        <input type="hidden" name="submit" value="submit">
+                        <input type="hidden" name="cws_token" value="781974caba733ad56d4747a599b8b4a9" />
+                    </form>
+                </div>
+                <!-- End of Contact Form -->
+            </div>
+        </div>
+
+    </div>
+</section>

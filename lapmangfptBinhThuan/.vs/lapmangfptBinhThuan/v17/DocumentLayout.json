@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\models\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\models\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\views\\home\\lien_he.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\views\\home\\lien_he.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\views\\home\\fpt_camera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\views\\home\\fpt_camera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\data\\lapdatmangfptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\data\\lapdatmangfptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\views\\khachhang\\lienhevm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\views\\khachhang\\lienhevm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\lapmangfptbinhthuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|c:\\users\\admin\\onedrive\\desktop\\file_code\\websize\\fpt-web\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\lapmangfptbinhthuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66ED6719-5F43-4ADF-A718-64DB292CFCA8}|lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj|solutionrelative:lapmangfptbinhthuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Dockerfile",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Dockerfile",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-17T15:35:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:52:15.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lienheController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Controllers\\lienheController.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Controllers\\lienheController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Controllers\\lienheController.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Controllers\\lienheController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:14:44.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lienhe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Models\\lienhe.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Models\\lienhe.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Models\\lienhe.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Models\\lienhe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:28:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAKUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T06:38:02.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fpt_camera.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\fpt_camera.cshtml",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Views\\Home\\fpt_camera.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\fpt_camera.cshtml",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Views\\Home\\fpt_camera.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T05:41:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lien_he.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\lien_he.cshtml",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Views\\Home\\lien_he.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\lien_he.cshtml",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Views\\Home\\lien_he.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:36:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LapdatmangfptContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Data\\LapdatmangfptContext.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Data\\LapdatmangfptContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Data\\LapdatmangfptContext.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Data\\LapdatmangfptContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:07:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lienheVM.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\KhachHang\\lienheVM.cshtml",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Views\\KhachHang\\lienheVM.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\KhachHang\\lienheVM.cshtml",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Views\\KhachHang\\lienheVM.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T07:22:12.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Controllers\\HangHoasController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Controllers\\HangHoasController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwvxAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:32:39.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADMCAAAAAAAAAAAAADwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T05:32:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Program.cs",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\Program.cs",
+              "RelativeToolTip": "lapmangfptBinhThuan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:11:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lapmangfptBinhThuan.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj",
+              "RelativeToolTip": "lapmangfptBinhThuan\\lapmangfptBinhThuan.csproj",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T05:46:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\appsettings.json",
+              "RelativeDocumentMoniker": "lapmangfptBinhThuan\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\file_code\\websize\\fpt-web\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\lapmangfptBinhThuan\\appsettings.json",
+              "RelativeToolTip": "lapmangfptBinhThuan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T06:00:48.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

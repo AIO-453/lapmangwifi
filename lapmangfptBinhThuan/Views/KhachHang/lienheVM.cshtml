@@ -1,0 +1,40 @@
+﻿@model lienhe
+
+@{
+    ViewData["Title"] = "Liên hệ";
+}
+
+<div class="col-lg-6">
+    <!-- Contact Form -->
+    <div class="contact-form parsley-validate-wrap" data-animate="fadeInUp" data-delay=".4">
+        <h3 class="bordered-title">Để lại thông tin chúng tôi sẽ gọi lại ngay cho bạn</h3>
+        <div class="form-response"></div>
+        <form id="contact_form" name="contact_form" method="post" action="/#contact-section">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-field">
+                        <input asp-for="@Model.HoTen" class="theme-input-style" placeholder="Họ tên (*)">
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-field">
+                        <input asp-for="@Model.DienThoai" class="theme-input-style" placeholder="Số điện thoại">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-field">
+                        <input asp-for="@Model.DiaChi" class="theme-input-style" placeholder="Địa chỉ">
+                    </div>
+                </div> 
+            </div>
+            <div class="form-field">
+                <textarea asp-for="@Model.NoiDung" class="theme-input-style" placeholder="Nội dung tin nhắn"></textarea>
+            </div>
+            <button type="submit" class="btn btn-orange btn-submit">Gửi</button>
+            <input type="hidden" name="submit" value="submit">
+            <input type="hidden" name="cws_token" value="781974caba733ad56d4747a599b8b4a9" />
+        </form>
+    </div>
+    <!-- End of Contact Form -->
+</div>
+

@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lapmangfptBinhThuan
+build_property.RootNamespace = lapmangfptBinhThuan
+build_property.ProjectDir = C:\Users\Admin\OneDrive\Desktop\file_code\websize\fpt-web\lapmangfpt\lapmangfptBinhThuan\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Admin\OneDrive\Desktop\file_code\websize\fpt-web\lapmangfpt\lapmangfptBinhThuan
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/HangHoas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/HangHoas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/HangHoas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/HangHoas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/HangHoas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/fpt_camera.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmcHRfY2FtZXJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/fpt_playbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmcHRfcGxheWJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/internet_fpt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbnRlcm5ldF9mcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/khuyenmaihot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxraHV5ZW5tYWlob3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/lien_he.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsaWVuX2hlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/tin_tuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0aW5fdHVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Home/truyen_hinh_fpt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0cnV5ZW5faGluaF9mcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/KhachHang/lienheVM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXGxpZW5oZVZNLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/OneDrive/Desktop/file_code/websize/fpt-web/lapmangfpt/lapmangfptBinhThuan/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-05p6ubva0j
